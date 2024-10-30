@@ -1,0 +1,3 @@
+[submodule "crestereo"]
+	path = crestereo
+	url = https://github.com/ibaiGorordo/CREStereo-Pytorch.git
